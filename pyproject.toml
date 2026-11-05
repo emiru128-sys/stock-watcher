@@ -1,0 +1,8 @@
+# pyproject.toml: the part that makes the command
+[project]
+name = "stock-watcher"
+version = "0.1.0"
+dependencies = ["httpx"]
+
+[project.scripts]
+stock-watcher = "stock_watcher.cli:main"
