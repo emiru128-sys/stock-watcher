@@ -1,4 +1,8 @@
 # stock-watcher
+
+## Purpose of the project
+It's for self study. All the code is hand-written. AI is only used for review and explanations.
+
 ## What it does
 Right now it's only a parser with 'hello' command, that prints 'hello'. At the end will be able to watch stocks and report changes.
 
